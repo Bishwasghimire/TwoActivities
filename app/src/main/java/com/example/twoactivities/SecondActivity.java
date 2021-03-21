@@ -1,4 +1,4 @@
-gpackage com.example.twoactivities;
+package com.example.twoactivities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
