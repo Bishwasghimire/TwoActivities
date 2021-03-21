@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+gpackage com.example.twoactivities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.twoactivities.MainActivity;
+import com.example.twoactivities.R;
 
 public class SecondActivity extends AppCompatActivity {
     public static final String EXTRA_REPLY =
