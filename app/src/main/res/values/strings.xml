@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">TwoActivities</string>
+    <string name="app_name">Two Activity Coding Challenge</string>
+    <string name="first_text">Text One</string>
+    <string name="second_text">Text Two</string>
+    <string name="third_text">Text Three</string>
+    <string name="paragraph1">
+        The name "Nepal" is first recorded in texts from the Vedic period of the Indian subcontinent, the era in ancient Nepal when Hinduism was founded, the predominant religion of the country. In the middle of the first millennium BC, Gautama Buddha, the founder of Buddhism, was born in Lumbini in southern Nepal.
+</string>
+    <string name="paragraph2">
+        The national flag of Nepal (Nepali: नेपालको झण्डा) is the world\'s only non-quadrilateral flag that acts as both the state flag and civil flag of a sovereign country.[2] The flag is a simplified combination of two single pennons (or pennants), known as a double-pennon. Its crimson red is the symbol of bravery and it also represents the color of the rhododendron, Nepal\'s national flower, while the blue border is the color of peace. Until 1962, the flag\'s emblems, both the sun and the crescent moon, had human faces, but they were removed to modernize the flag.
+    </string>
+    <string name="paragraph3">
+n the 2011 census, Nepal\'s population was approximately 26 million people with a population growth rate of 1.35% and a median age of 21.6 years.[1] In 2016, the female median age was approximately 25 years old and the male median age was approximately 22 years old.
+    </string>
+    <string name="button_key">TextView</string>
+    <string name="heading1">Nepal</string>
+    <string name="heading2">Flag of Nepal</string>
+    <string name="heading3">Population of Nepal</string>
 </resources>
